@@ -1,0 +1,57 @@
+[
+    {
+        "name" : "Mojito",
+        "Type" : "Cold Drinks",
+        "Price" : "10 RS",
+        "image" : "img/menu/9.png"
+    },
+    {
+        "name" : "Spanish latte",
+        "Type" : "Cold Drinks",
+        "Price" : "15 RS",
+        "image" : "img/menu/5.png"
+    },
+    {
+        "name" : "Red velvet latte",
+        "Type" : "Cold Drinks",
+        "Price" : "17 RS",
+        "image" : "img/menu/3.png"
+    },
+    {
+        "name" : "Cortado",
+        "Type" : "Hot Drinks",
+        "Price" : "13 RS",
+        "image" : "img/menu/6.png"
+    },
+    {
+        "name" : "Cappuccino",
+        "Type" : "Hot Drinks",
+        "Price" : "13 RS",
+        "image" : "img/menu/4.png"
+    },
+    {
+        "name" : "Americano",
+        "Type" : "Hot Drinks",
+        "Price" : "10 RS",
+        "image" : "img/menu/7.png"
+    },
+    {
+        "name" : "Waffle",
+        "Type" : "Dessert",
+        "Price" : "16 RS",
+        "image" : "img/menu/8.png"
+    },
+    {
+        "name" : "Mix",
+        "Type" : "Dessert",
+        "Price" : "18 RS",
+        "image" : "img/menu/2.png"
+    },
+    {
+        "name" : "Cake",
+        "Type" : "Dessert",
+        "Price" : "20 RS",
+        "image" : "img/menu/1.jpg"
+    }
+
+]
